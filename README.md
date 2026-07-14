@@ -159,8 +159,6 @@ src/main/java/com/openblog/
 ## 👨‍💻 Owner
 
 * **PALAKURTHI LALITH PRAKASH** 
-* **2303A52012** 
-* **palakurthi Lalith Prakash**
 
 ---
 
